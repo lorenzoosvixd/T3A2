@@ -28,6 +28,7 @@ DIFERENCIA DE HORA DEL DIA POSTERIOR MENOS EL DIA ANTERIOR.
      
      
      
-    ## ETAPA 3 }[](https://github.com/lorenzoosvixd/T3A2/blob/main/T3A2%20LORENZO%20XD.png)
+    ## ETAPA 3 
+    }[](https://github.com/lorenzoosvixd/T3A2/blob/main/T3A2%20LORENZO%20XD.png)
      
                                  
