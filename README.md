@@ -5,9 +5,9 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 #ETAPA 2: ESPECIFICACIONES 
 1 ENTRADA:
-VARIABLE STRING: INICIO 
+#VARIABLE STRING: INICIO 
 FINAL 
-VARIABLE STRING: HORAINICIO
+#VARIABLE STRING: HORAINICIO
 HORA FINAL 
 OPCIONAL: DATOS DEL USUARIO (NOMBRE, APELLIDO, ETC)
 2 PROCESO:
@@ -28,6 +28,6 @@ DIFERENCIA DE HORA DEL DIA POSTERIOR MENOS EL DIA ANTERIOR.
      
      
      
-    ## ETAPA 3 
+    ## ETAPA 3 }[](https://github.com/lorenzoosvixd/T3A2/blob/main/T3A2%20LORENZO%20XD.png)
      
                                  
